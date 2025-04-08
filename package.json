@@ -1,13 +1,14 @@
 {
   "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.3.0",
     "@types/cypress": "^1.1.6",
     "cypress": "^14.2.1"
   },
-  
-    "compilerOptions": {
-      "types": ["cypress"]
-    },
-    
+  "compilerOptions": {
+    "types": [
+      "cypress"
+    ]
+  },
   "name": "module8_cdp",
   "description": "repository for CDP module 08 homework",
   "version": "1.0.0",
